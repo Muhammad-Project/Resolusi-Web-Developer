@@ -2,3 +2,7 @@ Resolusi saya selama belajar Web Developer
 
 1.  Konsisten selama belajar.
 2.  Belajar selama kurang lebih 2 - 3 jam per-hari.
+
+Hal yang akan saya pelajari
+1.  Belajar HTML, CSS dan JavaScript (sebagai frontend)
+2.  Python, PHP (sebagai Backend)
